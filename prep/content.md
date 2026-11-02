@@ -14,8 +14,8 @@ Topic: **Nail Designing**
   * It lets you choose the style design
   * It asks you what size and shape you would like
   * Also ask for your skin tone to see how the design would look on your hands
-  * Also, it can make you many different styles
-  * [image text](image URL)
+  * Also, it can make you many different styles depending on what you chose
+  * [Nail Design Generator](image URL)
 
 ##### Hardware
 * Tech
