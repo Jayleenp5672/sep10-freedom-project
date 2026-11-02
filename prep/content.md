@@ -27,5 +27,7 @@ Topic: **Nail Designing**
   * [Nail Printer](https://github.com/user-attachments/assets/9c81a6f3-3c47-4918-ae56-7645030067c5)
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+[Smart tool](https://dollanailspro.com)
+  * An example of this is that led lights van be more efficent
+  * Better LED light can help your skin more
+  * These new Led lights are safer and more quicker.
