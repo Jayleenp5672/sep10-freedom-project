@@ -8,7 +8,7 @@ Topic: **Nail Designing**
 ## Part A: existing technology
 
 ##### Software
-**AI Nail Design Generator**
+[AI Nail Design Generator](https://www.nail-designs.ai)
   * You are able to design the nails that you want
   * It can make you a nail design by you inserting an image of your hand
   * It lets you choose the style design
