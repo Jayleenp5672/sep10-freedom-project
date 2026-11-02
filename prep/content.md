@@ -9,7 +9,7 @@ Topic: **Nail Designing**
 
 ##### Software
 **AI Nail Design Generator**
-  * Detail
+  * You are able to design the nails that you want
   * 
   * [image text](image URL)
 
