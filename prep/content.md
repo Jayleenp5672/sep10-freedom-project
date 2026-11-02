@@ -18,9 +18,13 @@ Topic: **Nail Designing**
   * [Nail Design Generator](https://github.com/user-attachments/assets/70ba9e52-21ba-41df-8bb2-d29739257d37)
 
 ##### Hardware
-* Tech
-  * Detail
-  * [image text](image URL)
+[Digital Nail Prnters](https://www.top5reviewed.com)
+  * There a nail printers to print
+  * The printers are for designs that are much harder
+  * This makes it easier for for nail tech so they won't have to paint their nails 1 at a tim
+  * Also, can be used by anyone
+  * Can also be used at the comforts of your won home
+  * [Nail Printer](https://github.com/user-attachments/assets/9c81a6f3-3c47-4918-ae56-7645030067c5)
 
 ## Part B: possible future technology
 * Idea
