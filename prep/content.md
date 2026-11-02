@@ -2,8 +2,8 @@
 Topic: **Nail Designing**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* There is new technology that van make it easier to do your nails
+* Also, a printer makes it easier to use because I without any stress
 
 ## Part A: existing technology
 
