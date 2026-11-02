@@ -8,8 +8,9 @@ Topic: **Nail Designing**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+**AI Nail Design Generator**
   * Detail
+  * 
   * [image text](image URL)
 
 ##### Hardware
