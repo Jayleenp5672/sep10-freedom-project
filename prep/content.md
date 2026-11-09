@@ -19,6 +19,15 @@ Topic: **Nail Designing**
   * Also can choose you level of designs
   * [Nail Design Generator](https://github.com/user-attachments/assets/70ba9e52-21ba-41df-8bb2-d29739257d37)
 
+ [Nail Art Maker](https://nailartmaker.com)
+  * These are nail art maker that let you design your nail art.
+  * You can choose a theme
+  * You can choose the color scheme
+  * Lets you choose the shape of your nails
+  * Also you can choose jewelry to see how that certain jewelry looks on you
+  * Let ´ s choose you skin tone
+  * Also let ´ s you choose you hand shape 
+
 ##### Hardware
 [Digital Nail Prnters](https://www.top5reviewed.com)
   * There a nail printers to print
