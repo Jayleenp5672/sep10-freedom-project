@@ -15,6 +15,8 @@ Topic: **Nail Designing**
   * It asks you what size and shape you would like
   * Also ask for your skin tone to see how the design would look on your hands
   * Also, it can make you many different styles depending on what you chose
+  * Makes it easier for selecting a design
+  * Also can choose you level of designs
   * [Nail Design Generator](https://github.com/user-attachments/assets/70ba9e52-21ba-41df-8bb2-d29739257d37)
 
 ##### Hardware
@@ -23,7 +25,8 @@ Topic: **Nail Designing**
   * The printers are for designs that are much harder
   * This makes it easier for for nail tech so they won't have to paint their nails 1 at a tim
   * Also, can be used by anyone
-  * Can also be used at the comforts of your won home
+  * Can also be used at the comforts of your own home
+  * Makes it faster for nail designing so you do not have to be there for hours
   * [Nail Printer](https://github.com/user-attachments/assets/9c81a6f3-3c47-4918-ae56-7645030067c5)
 
 ## Part B: possible future technology
