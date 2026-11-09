@@ -34,4 +34,6 @@ Topic: **Nail Designing**
   * An example of this is that led lights van be more efficent
   * Better LED light can help your skin more
   * These new Led lights are safer and more quicker.
-[Nail Stickers](https://eyecandys.com)
+
+[Nail Stickers](https://eyecandys.com/blogs/news/innovative-nail-products-future-manicure?srsltid=AYCX9vIVXsokWUnVrrdug9HnHG2EglkUQSjfnMMQIlhF4Jwg36VF_zGG)
+*The
