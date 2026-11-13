@@ -22,6 +22,10 @@ Topic: **Nail Designing**
   * Allows you to choose the color scheme
   * Also you can choose jewelry to see how that certain jewelry looks on you
   * Can let you choose the hand size
+  * Offers a nail color picker and a nail shape finder
+  * Also has an option to see the nail designing trends
+  * Offers an option to check what outfits match the nail designs
+  * Has a color combo generator
 
 ##### Hardware
 [Digital Nail Prnters](https://www.top5reviewed.com)
