@@ -27,9 +27,23 @@ Topic: **Nail Designing**
   * Offers an option to check what outfits match the nail designs
   * Has a color combo generator
 
-##### Hardware
+### HARDWARE
 [Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
-  * 
+  * The website has gel nail sticker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Part B: possible future technology
 [Smart tool](https://dollanailspro.com)
   * An example of this is that led lights van be more efficent
