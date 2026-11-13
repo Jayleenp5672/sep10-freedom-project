@@ -8,19 +8,17 @@ Topic: **Nail Designing**
 ## Part A: existing technology
 
 ### SOFTWARE
-[AI Nail Design Generator](https://www.nail-designs.ai)
-  *
-  * You are able to design the nails that you want
-  * It can make you a nail design by you inserting an image of your hand
-  * It lets you choose the style design
-  * It asks you what size and shape you would like
-  * Also ask for your skin tone to see how the design would look on your hands
-  * Also, it can make you many different styles depending on what you chose
-  * Makes it easier for selecting a design
-  * Also can choose you level of designs
-  * [Nail Design Generator](https://github.com/user-attachments/assets/70ba9e52-21ba-41df-8bb2-d29739257d37)
-
- [Nail Art Maker](https://nailartmaker.com)
+  #### Nail Designing Websites
+  * Websites used: [AI Nail Design Generator](https://www.nail-designs.ai)
+  * This website: allows you to create nail designs with AI
+  * Can let you choose the style of the design
+  * Asks you what size and shape you would like
+  * Asks for your skin tone to see how the design would look on your hands
+  * Can Makes many different styles depending on what you choose
+  * This website makes it easier to design nails
+  * Can choose you level of designs
+  [Nail Design Generator](https://github.com/user-attachments/assets/70ba9e52-21ba-41df-8bb2-d29739257d37)
+  * [Nail Art Maker](https://nailartmaker.com)
   * These are nail art maker that let you design your nail art.
   * You can choose a theme
   * You can choose the color scheme
