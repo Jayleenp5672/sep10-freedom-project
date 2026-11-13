@@ -30,7 +30,7 @@ Topic: **Nail Designing**
 ### HARDWARE
 [Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
   * The website has gel nail sticker
-
+  *
 
 
 
