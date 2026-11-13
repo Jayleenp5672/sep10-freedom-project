@@ -28,15 +28,8 @@ Topic: **Nail Designing**
   * Has a color combo generator
 
 ##### Hardware
-[Digital Nail Prnters](https://www.top5reviewed.com)
-  * There a nail printers to print
-  * The printers are for designs that are much harder
-  * This makes it easier for for nail tech so they won't have to paint their nails 1 at a tim
-  * Also, can be used by anyone
-  * Can also be used at the comforts of your own home
-  * Makes it faster for nail designing so you do not have to be there for hours
-  * [Nail Printer](https://github.com/user-attachments/assets/9c81a6f3-3c47-4918-ae56-7645030067c5)
-
+[Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
+  * 
 ## Part B: possible future technology
 [Smart tool](https://dollanailspro.com)
   * An example of this is that led lights van be more efficent
