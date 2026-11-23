@@ -31,7 +31,12 @@ Topic: **Nail Designing**
 [Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
   * The website has gel nail sticker
   * It's super easy to apply
-  * 
+  * You can travel with it
+  * All you need is a UV light to apply
+  * Easy to remove
+  * Can also change the design of your nails frequently
+  * Can last long
+  * Comes in many colors and designs
 
 
 
