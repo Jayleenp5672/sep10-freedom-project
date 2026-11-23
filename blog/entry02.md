@@ -15,27 +15,14 @@ I synthesized using the example that was given to see how I can organize it. Als
 # Engineer Design Process
 I'm at the part of the engineer design process where we start part B. Part B talks about future technology. And I've already started to think about this. I thought that nail designing could have an advance in smart tool. Or future tools that would make nail designing more efficient. 
 
-# Skill
-A skill that I learned was how to google better.
+# Skills
+A skill that I learned was how to google better and how to be more organized.
 
 ### How to google?
 While doing my content.md I was having an issue with finding some hardware that had to do with nail designing. When I searched "nail designing hardware" not much came up. But when I became more precise with googling, I was able to find more hardware stuff about nail designing.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Text
+### How to be more organized?
+Doing my content.md I learned how to be more organized because when it came to synthesizing it was a lot easier since my work was much more organized. Also having organized work made it easier finding information that is needed.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
