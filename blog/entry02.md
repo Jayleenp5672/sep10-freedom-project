@@ -12,7 +12,10 @@ In my research of finding technology about nail designing, I found many technolo
 ### Synthesized
 I synthesized using the example that was given to see how I can organize it. Also I had to change somethings to make it look neater instead of everthing being everywhere. Also I labeled a lot of things, so you would know where to look for that specific thing.
 
-#
+# Engineer Design Process
+I'm at the part of the engineer design process where we start part B. Part B talks about future technology. And I've already started to think about this. I thought that nail designing could have an advance in smart tool. Or future tools that would make nail designing more efficient. 
+
+# Skills
 
 
 
