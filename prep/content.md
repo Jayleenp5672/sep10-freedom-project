@@ -42,5 +42,11 @@ Topic: **Nail Designing**
 
 
 ## Part B: possible future technology
-*
+* Base Color machine
+  * This machine will apply the background color on your nails
+  * The machine will help save more time in your day
+  * You can have more time doing the design on your nail instead of wasting your time painting all the nails
+  * If you have a press-on company the machine will help your company become more efficient
+  * Also this machine will be able to apply the base coat and the top coat for your nails
+  
 
