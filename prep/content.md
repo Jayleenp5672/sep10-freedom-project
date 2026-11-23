@@ -28,7 +28,7 @@ Topic: **Nail Designing**
   * Has a color combo generator
 
 ### HARDWARE
-[Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
+  * Website used: [Gel Nail stickers](https://eyecandys.com/blogs/news/ultimate-nail-art-tool-kit)
   * The website has gel nail sticker
   * It's super easy to apply
   * You can travel with it
@@ -37,24 +37,10 @@ Topic: **Nail Designing**
   * Can also change the design of your nails frequently
   * Can last long
   * Comes in many colors and designs
-
-
-
-
-
-
-
-
-
-
+  * Easy to apply on your nails
 
 
 
 ## Part B: possible future technology
-[Smart tool](https://dollanailspro.com)
-  * An example of this is that led lights van be more efficent
-  * Better LED light can help your skin more
-  * These new Led lights are safer and more quicker.
+*
 
-[Nail Stickers](https://eyecandys.com/blogs/news/innovative-nail-products-future-manicure?srsltid=AYCX9vIVXsokWUnVrrdug9HnHG2EglkUQSjfnMMQIlhF4Jwg36VF_zGG)
-*The
